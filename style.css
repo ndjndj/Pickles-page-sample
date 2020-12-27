@@ -25,3 +25,18 @@
 .header ul li {
     margin-left: 20px;
 }
+
+.wrapper {
+    width: 96%;
+    border: solid 2px #000000;
+    border-radius: 5px;
+    margin: 2% 2%;
+}
+
+.wrapper h2 {
+    text-align: center;
+    width: 40%;
+    border-bottom: solid 2px #CCCCCC;
+    margin: 1% 30%;
+    line-height: 1;
+}
