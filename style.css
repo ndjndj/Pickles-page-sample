@@ -3,4 +3,25 @@
     padding: 0;
 }
 
+#header-list {
+    list-style: none;
+}
 
+.header {
+    padding: 0 30px;
+    display: flex;
+    height: 60px;
+    align-items: center;
+}
+
+.header nav {
+    margin-left: auto;
+}
+
+.header ul {
+    display: flex;
+}
+
+.header ul li {
+    margin-left: 20px;
+}
