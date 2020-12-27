@@ -29,7 +29,7 @@
 .wrapper {
     width: 96%;
     border: solid 2px #000000;
-    border-radius: 5px;
+    border-radius: 10px;
     margin: 2% 2%;
 }
 
@@ -39,4 +39,8 @@
     border-bottom: solid 2px #CCCCCC;
     margin: 1% 30%;
     line-height: 1;
+}
+
+.content {
+    margin: 1% 5%;
 }
