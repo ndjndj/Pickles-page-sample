@@ -51,10 +51,10 @@ body {
 }
 
 .wrapper {
-    width: 98%;
+    width: 96%;
     border: solid 2px #000000;
     border-radius: 20px;
-    margin: 1% 1%;
+    margin: 2% 2%;
 }
 
 .wrapper h2 {
@@ -151,32 +151,30 @@ body {
 .flex-wrapper {
     display: flex;
     width: 100%;
+    height: 100%;
+    flex-wrap: wrap;
 }
 
 .flex-wrapper .left {
     margin: 2% 1% 2% 2%;
+    width: 46%;
+    border: 1px solid #000;
 }
 
 .flex-wrapper .right {
     margin: 2% 2% 2% 1%;
+    width: 46%;
+    border: 1px solid #000;
 }
 
-.flex-wrapper .img.left {
-    width: 50%;
+.flex-wrapper .img {
     height: 100%;
     border: 1px solid #000;
 }
 
-.flex-wrapper .img.left img {
+.flex-wrapper .img img {
     width: 100%;
     height: 100%;
-}
-
-.flex-wrapper .description.right {
-    width: 50%;
-    height: 100%;
-    border: 1px solid #000;
-    margin: 2%;
 }
 
 .btn {
