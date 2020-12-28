@@ -31,7 +31,11 @@ body {
     padding: 0 30px;
     display: flex;
     height: 60px;
+    border-bottom: dashed 1px #CCCCCC;
     align-items: center;
+    position: sticky;
+    top: 0;
+    left: 0;
 }
 
 .header nav {
@@ -111,10 +115,10 @@ body {
 }
 
 #release-note .content {
-    border: 2px solid #CCCCCC;
+    border: 1px solid #CCCCCC;
     border-radius: 10px;
     overflow: hidden;
-    margin-top: 2%;
+    margin-top: 4%;
 }
 
 #release-note .content .scroll-box {
@@ -161,6 +165,11 @@ body {
     width: 50%;
     height: 100%;
     border: 1px solid #000;
+}
+
+.flex-wrapper .img.left img {
+    width: 100%;
+    height: 100%;
 }
 
 .flex-wrapper .description.right {
