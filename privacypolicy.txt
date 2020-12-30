@@ -1,0 +1,15 @@
+プライバシーの保護
+我々、Pickles開発陣はPicklesユーザーのプライバシーを真摯に受け止めます。
+お客様がブラウザ内に保存したタブ情報はPickles開発者やその他の第三者に送信または開示されることはありません。
+
+免責事項
+我々は、当拡張機能を使用して生じた一切の責任について負いかねますので、あらかじめご了承ください。
+Picklesの使用は自己責任で行う必要があります。
+
+Privacy assurance
+We, Pickles developers take the privacy of Pickles users very seriously.
+stored tab information in your browser will not be sent or disclosed to Pickles developers or any other third party.
+
+Disclaimer
+Please note that we cannot be held responsible for any damage caused by the use of this extension.
+Use of Pickles must be done at your own risk.
